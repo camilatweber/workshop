@@ -1,0 +1,501 @@
+ano,estado,sexo,idade,cor,escolaridade,trabalha,posicao_trabalho,renda,horas_trabalhadas_semana,carteira_trabalho_assinada,horas_trabalhadas_semana_casa
+2019,SP,feminino,37,branca,sem escolaridade,sim,operacional,1050,41,nao,13
+2019,SP,feminino,56,preta,fundamental,sim,conta propria,2813,48,nao,12
+2019,SP,feminino,79,preta,sem escolaridade,sim,operacional,1117,40,sim,3
+2019,SP,feminino,71,branca,sem escolaridade,sim,operacional,1723,31,sim,6
+2019,SP,feminino,73,preta,fundamental,sim,operacional,1296,50,nao,8
+2019,SP,feminino,55,parda,superior,sim,lideranca,5364,33,nao,6
+2019,SP,feminino,19,branca,fundamental,sim,conta propria,3477,38,sim,13
+2019,SP,feminino,28,preta,superior,sim,conta propria,2506,41,sim,4
+2019,SP,feminino,70,branca,ensino medio,sim,operacional,952,42,nao,9
+2019,SP,feminino,38,branca,superior,sim,operacional,1442,48,sim,4
+2019,SP,feminino,42,parda,sem escolaridade,sim,conta propria,1703,49,sim,9
+2019,SP,feminino,39,parda,ensino medio,sim,operacional,1875,44,sim,6
+2019,SP,feminino,61,preta,ensino medio,nao,,,,,17
+2019,SP,feminino,66,branca,fundamental,nao,,,,,9
+2019,SP,feminino,33,preta,ensino medio,sim,operacional,1217,37,nao,13
+2019,SP,feminino,54,parda,ensino medio,sim,conta propria,2557,47,nao,3
+2019,SP,feminino,54,branca,superior,sim,conta propria,2949,42,nao,10
+2019,SP,feminino,50,preta,ensino medio,sim,lideranca,5804,37,sim,8
+2019,SP,feminino,40,parda,fundamental,nao,,,,,17
+2019,SP,feminino,77,branca,fundamental,sim,conta propria,2563,47,sim,3
+2019,SP,feminino,30,branca,superior,sim,conta propria,1345,42,nao,7
+2019,SP,feminino,57,branca,ensino medio,sim,lideranca,9427,48,nao,3
+2019,SP,feminino,72,branca,fundamental,sim,conta propria,2541,30,sim,4
+2019,SP,feminino,37,branca,ensino medio,sim,operacional,1453,42,sim,7
+2019,SP,feminino,64,preta,superior,sim,lideranca,3412,46,nao,10
+2019,SP,feminino,54,branca,fundamental,sim,conta propria,2759,50,sim,9
+2019,SP,feminino,67,preta,ensino medio,sim,operacional,1349,49,sim,8
+2019,SP,feminino,59,preta,fundamental,sim,operacional,1594,34,sim,8
+2019,SP,feminino,19,branca,superior,sim,conta propria,2134,33,sim,11
+2019,SP,feminino,30,parda,ensino medio,nao,,,,,18
+2019,SP,feminino,40,parda,ensino medio,sim,operacional,2081,48,sim,3
+2019,SP,feminino,35,branca,superior,sim,lideranca,6473,50,sim,9
+2019,SP,feminino,56,parda,ensino medio,sim,operacional,2236,49,sim,5
+2019,SP,feminino,33,preta,fundamental,sim,conta propria,2759,34,sim,13
+2019,SP,feminino,55,branca,superior,sim,conta propria,3080,44,sim,11
+2019,SP,feminino,76,parda,ensino medio,sim,conta propria,2709,38,sim,9
+2019,SP,feminino,57,branca,ensino medio,sim,operacional,1534,41,sim,10
+2019,SP,feminino,79,preta,fundamental,sim,operacional,1266,49,sim,3
+2019,SP,feminino,43,preta,superior,sim,operacional,1351,31,nao,11
+2019,SP,feminino,70,preta,fundamental,sim,operacional,1391,31,sim,11
+2019,SP,feminino,59,parda,ensino medio,sim,operacional,2663,35,nao,8
+2019,SP,feminino,25,branca,ensino medio,sim,operacional,1384,37,sim,7
+2019,SP,feminino,71,branca,ensino medio,nao,,,,,16
+2019,SP,feminino,48,preta,fundamental,sim,operacional,1018,30,sim,6
+2019,SP,feminino,28,branca,fundamental,sim,operacional,2327,39,nao,7
+2019,SP,feminino,29,parda,superior,sim,conta propria,1200,41,sim,13
+2019,SP,feminino,52,branca,fundamental,sim,conta propria,3423,47,sim,11
+2019,SP,feminino,63,parda,superior,sim,conta propria,2329,31,sim,8
+2019,SP,feminino,42,branca,superior,sim,conta propria,3136,36,sim,10
+2019,SP,feminino,52,preta,fundamental,nao,,,,,7
+2019,SP,feminino,24,parda,ensino medio,sim,operacional,776,46,sim,4
+2019,SP,feminino,18,preta,ensino medio,sim,conta propria,1072,50,nao,9
+2019,SP,feminino,76,branca,fundamental,sim,conta propria,1235,41,sim,12
+2019,SP,feminino,69,branca,superior,sim,conta propria,1750,48,sim,10
+2019,SP,feminino,25,parda,sem escolaridade,sim,conta propria,2921,40,sim,6
+2019,SP,feminino,22,parda,fundamental,sim,operacional,1630,45,nao,12
+2019,SP,masculino,80,parda,ensino medio,sim,operacional,1497,40,sim,0
+2019,SP,masculino,78,preta,superior,sim,conta propria,2101,35,nao,2
+2019,SP,masculino,57,preta,superior,sim,lideranca,4753,39,sim,6
+2019,SP,masculino,79,preta,superior,sim,operacional,2084,39,nao,3
+2019,SP,masculino,31,parda,fundamental,sim,operacional,2448,41,sim,4
+2019,SP,masculino,57,parda,superior,sim,lideranca,6049,33,nao,3
+2019,SP,masculino,54,branca,superior,nao,,,,,4
+2019,SP,masculino,60,branca,fundamental,sim,operacional,2962,39,sim,6
+2019,SP,masculino,80,parda,superior,sim,lideranca,8234,37,sim,6
+2019,SP,masculino,44,branca,ensino medio,sim,conta propria,1237,35,nao,4
+2019,SP,masculino,38,parda,ensino medio,sim,conta propria,3022,47,nao,0
+2019,SP,masculino,33,parda,superior,sim,lideranca,4936,41,sim,6
+2019,SP,masculino,40,parda,ensino medio,sim,lideranca,5361,36,nao,1
+2019,SP,masculino,21,parda,ensino medio,sim,conta propria,1975,37,nao,0
+2019,SP,masculino,65,preta,superior,sim,operacional,1929,41,nao,1
+2019,SP,masculino,63,parda,ensino medio,sim,conta propria,1367,41,nao,0
+2019,SP,masculino,36,parda,superior,sim,lideranca,7342,49,sim,0
+2019,SP,masculino,20,parda,superior,sim,conta propria,2347,31,nao,1
+2019,SP,masculino,34,parda,superior,sim,conta propria,2967,48,sim,2
+2019,SP,masculino,47,preta,superior,sim,lideranca,7646,38,sim,6
+2019,SP,masculino,77,parda,superior,sim,conta propria,1949,47,sim,6
+2019,SP,masculino,55,branca,ensino medio,sim,lideranca,6439,35,nao,3
+2019,SP,masculino,57,branca,fundamental,sim,operacional,2389,37,sim,6
+2019,SP,masculino,57,parda,ensino medio,nao,,,,,6
+2019,SP,masculino,36,parda,superior,sim,conta propria,2874,40,sim,3
+2019,SP,masculino,61,branca,ensino medio,sim,operacional,2202,44,sim,2
+2019,SP,masculino,76,parda,fundamental,sim,conta propria,3251,33,sim,2
+2019,SP,masculino,41,parda,superior,sim,operacional,1241,47,nao,6
+2019,SP,masculino,55,preta,ensino medio,sim,conta propria,1259,45,nao,2
+2019,SP,masculino,53,parda,ensino medio,sim,operacional,2798,45,sim,1
+2019,SP,masculino,36,preta,superior,sim,operacional,2193,49,nao,1
+2019,SP,masculino,53,parda,superior,sim,operacional,2282,41,nao,3
+2019,SP,masculino,24,parda,superior,sim,conta propria,1405,43,nao,5
+2019,SP,masculino,70,preta,fundamental,sim,operacional,2867,47,sim,0
+2019,SP,masculino,26,branca,ensino medio,sim,conta propria,2952,44,sim,3
+2019,SP,masculino,35,branca,superior,sim,conta propria,4332,42,nao,0
+2019,SP,masculino,75,branca,superior,sim,lideranca,8234,49,sim,6
+2019,SP,masculino,74,branca,fundamental,nao,,,,,11
+2019,SP,masculino,52,branca,superior,sim,lideranca,9527,36,nao,4
+2019,SP,masculino,18,parda,fundamental,sim,operacional,997,48,sim,2
+2019,SP,masculino,78,branca,superior,sim,conta propria,3123,43,nao,4
+2019,SP,masculino,60,branca,ensino medio,sim,lideranca,5983,42,sim,0
+2019,SP,masculino,69,preta,superior,sim,operacional,1533,50,sim,2
+2019,SP,masculino,65,branca,superior,sim,lideranca,9341,38,sim,0
+2018,SP,feminino,33,preta,fundamental,sim,operacional,1403,42,sim,4
+2018,SP,feminino,47,preta,ensino medio,sim,lideranca,4093,32,nao,4
+2018,SP,feminino,33,preta,fundamental,sim,conta propria,1028,33,sim,5
+2018,SP,feminino,36,branca,fundamental,sim,conta propria,2131,32,sim,7
+2018,SP,feminino,39,parda,fundamental,sim,operacional,2859,47,nao,9
+2018,SP,feminino,21,branca,fundamental,sim,operacional,2199,44,sim,5
+2018,SP,feminino,28,preta,sem escolaridade,sim,operacional,704,42,nao,4
+2018,SP,feminino,74,preta,ensino medio,sim,operacional,753,30,sim,5
+2018,SP,feminino,50,preta,ensino medio,sim,operacional,1224,46,nao,10
+2018,SP,feminino,35,parda,superior,sim,conta propria,2159,32,nao,11
+2018,SP,feminino,30,parda,sem escolaridade,nao,,,,,15
+2018,SP,feminino,77,parda,ensino medio,nao,,,,,12
+2018,SP,feminino,45,branca,fundamental,sim,operacional,2966,33,sim,10
+2018,SP,feminino,37,branca,fundamental,sim,operacional,1139,46,nao,5
+2018,SP,feminino,75,parda,ensino medio,sim,conta propria,1417,41,sim,12
+2018,SP,feminino,77,preta,ensino medio,nao,,,,,7
+2018,SP,feminino,40,branca,ensino medio,sim,lideranca,9624,47,sim,8
+2018,SP,feminino,31,preta,ensino medio,sim,operacional,1526,43,nao,9
+2018,SP,feminino,44,branca,superior,sim,lideranca,6014,46,sim,5
+2018,SP,feminino,37,parda,fundamental,sim,operacional,2522,34,nao,13
+2018,SP,feminino,75,branca,fundamental,nao,,,,,14
+2018,SP,feminino,46,parda,ensino medio,sim,conta propria,3472,34,nao,3
+2018,SP,feminino,71,parda,ensino medio,sim,lideranca,6708,50,sim,13
+2018,SP,feminino,22,branca,ensino medio,nao,,,,,8
+2018,SP,feminino,23,branca,fundamental,nao,,,,,17
+2018,SP,feminino,48,parda,sem escolaridade,sim,conta propria,1876,38,nao,10
+2018,SP,feminino,69,parda,fundamental,sim,operacional,1730,42,sim,8
+2018,SP,feminino,78,branca,fundamental,sim,operacional,1287,36,nao,4
+2018,SP,feminino,35,preta,sem escolaridade,sim,conta propria,1588,42,nao,7
+2018,SP,feminino,42,parda,fundamental,sim,operacional,2055,30,sim,5
+2018,SP,feminino,56,parda,fundamental,sim,conta propria,1805,43,nao,10
+2018,SP,feminino,45,parda,fundamental,sim,conta propria,2139,45,sim,3
+2018,SP,feminino,45,preta,fundamental,sim,operacional,1643,50,sim,5
+2018,SP,feminino,65,parda,fundamental,nao,,,,,8
+2018,SP,feminino,72,branca,superior,sim,conta propria,3333,40,sim,4
+2018,SP,feminino,53,branca,fundamental,sim,conta propria,1256,43,sim,7
+2018,SP,feminino,20,preta,fundamental,sim,operacional,714,41,sim,10
+2018,SP,feminino,62,parda,superior,sim,conta propria,2215,33,sim,7
+2018,SP,feminino,50,parda,sem escolaridade,nao,,,,,13
+2018,SP,feminino,32,preta,ensino medio,sim,conta propria,1780,47,sim,4
+2018,SP,feminino,79,parda,ensino medio,sim,operacional,900,32,sim,13
+2018,SP,feminino,62,parda,ensino medio,nao,,,,,17
+2018,SP,feminino,57,parda,fundamental,sim,operacional,999,47,sim,5
+2018,SP,feminino,37,branca,superior,sim,operacional,2217,41,sim,8
+2018,SP,feminino,52,branca,ensino medio,sim,lideranca,9523,31,sim,12
+2018,SP,feminino,47,parda,ensino medio,sim,operacional,2371,42,sim,8
+2018,SP,feminino,74,parda,superior,sim,operacional,1146,36,sim,4
+2018,SP,feminino,73,preta,superior,sim,operacional,970,40,nao,12
+2018,SP,feminino,56,branca,fundamental,sim,operacional,1892,48,nao,4
+2018,SP,feminino,47,branca,superior,sim,lideranca,7033,35,sim,11
+2018,SP,feminino,39,parda,superior,sim,operacional,2536,46,sim,3
+2018,SP,feminino,36,parda,superior,sim,conta propria,3162,30,nao,3
+2018,SP,feminino,53,branca,fundamental,sim,operacional,2576,47,nao,6
+2018,SP,feminino,31,parda,ensino medio,sim,conta propria,3484,33,nao,11
+2018,SP,feminino,36,preta,sem escolaridade,sim,conta propria,2190,36,sim,4
+2018,SP,feminino,71,preta,ensino medio,sim,conta propria,3008,37,nao,13
+2018,SP,feminino,69,parda,ensino medio,sim,operacional,1068,37,sim,6
+2018,SP,feminino,24,branca,ensino medio,nao,,,,,11
+2018,SP,masculino,38,parda,ensino medio,sim,conta propria,2634,48,sim,2
+2018,SP,masculino,28,branca,fundamental,sim,lideranca,5704,41,sim,3
+2018,SP,masculino,41,preta,ensino medio,sim,conta propria,3133,45,sim,1
+2018,SP,masculino,60,preta,ensino medio,sim,operacional,2161,41,sim,3
+2018,SP,masculino,40,parda,ensino medio,sim,conta propria,1976,50,nao,4
+2018,SP,masculino,60,branca,ensino medio,sim,conta propria,3225,38,sim,4
+2018,SP,masculino,28,branca,fundamental,sim,lideranca,9349,32,sim,2
+2018,SP,masculino,35,branca,ensino medio,sim,conta propria,1253,37,nao,6
+2018,SP,masculino,76,parda,superior,sim,lideranca,6541,38,sim,3
+2018,SP,masculino,79,preta,fundamental,sim,operacional,1498,46,sim,3
+2018,SP,masculino,30,branca,fundamental,sim,conta propria,3396,50,sim,3
+2018,SP,masculino,31,parda,superior,nao,,,,,9
+2018,SP,masculino,39,parda,superior,sim,conta propria,1742,39,sim,1
+2018,SP,masculino,28,parda,superior,sim,lideranca,5832,36,sim,0
+2018,SP,masculino,55,parda,superior,sim,conta propria,3452,38,sim,6
+2018,SP,masculino,57,parda,ensino medio,nao,,,,,10
+2018,SP,masculino,75,branca,ensino medio,sim,lideranca,8620,40,sim,0
+2018,SP,masculino,41,parda,ensino medio,sim,operacional,904,46,sim,2
+2018,SP,masculino,56,preta,ensino medio,sim,conta propria,1874,31,sim,5
+2018,SP,masculino,26,preta,ensino medio,sim,conta propria,1335,47,sim,3
+2018,SP,masculino,60,preta,fundamental,nao,,,,,12
+2018,SP,masculino,77,parda,fundamental,sim,conta propria,1636,50,sim,5
+2018,SP,masculino,34,parda,ensino medio,nao,,,,,7
+2018,SP,masculino,46,branca,fundamental,sim,lideranca,4956,34,sim,1
+2018,SP,masculino,33,branca,ensino medio,sim,operacional,2887,33,sim,6
+2018,SP,masculino,18,parda,fundamental,sim,operacional,1434,46,sim,1
+2018,SP,masculino,56,preta,superior,sim,operacional,750,37,sim,6
+2018,SP,masculino,65,parda,fundamental,sim,operacional,1609,46,sim,0
+2018,SP,masculino,65,branca,superior,sim,conta propria,4312,43,sim,2
+2018,SP,masculino,63,branca,superior,sim,lideranca,8234,31,sim,1
+2018,SP,masculino,22,parda,superior,sim,conta propria,3249,38,nao,0
+2018,SP,masculino,73,parda,superior,sim,lideranca,4948,36,sim,1
+2018,SP,masculino,44,parda,ensino medio,nao,,,,,6
+2018,SP,masculino,34,parda,fundamental,nao,,,,,5
+2018,SP,masculino,73,parda,ensino medio,sim,operacional,2756,45,sim,5
+2018,SP,masculino,55,preta,superior,sim,operacional,1161,38,sim,2
+2018,SP,masculino,27,preta,superior,sim,operacional,1283,42,sim,2
+2018,SP,masculino,71,parda,superior,sim,lideranca,8403,49,sim,5
+2018,SP,masculino,26,parda,fundamental,nao,,,,,6
+2018,SP,masculino,53,branca,fundamental,sim,conta propria,1799,45,nao,4
+2018,SP,masculino,62,preta,ensino medio,sim,conta propria,2702,50,sim,4
+2018,SP,masculino,57,parda,superior,sim,conta propria,2830,50,sim,5
+2017,SP,feminino,45,parda,fundamental,sim,conta propria,2375,45,sim,4
+2017,SP,feminino,69,parda,sem escolaridade,sim,operacional,1358,37,sim,10
+2017,SP,feminino,64,branca,ensino medio,sim,operacional,1823,37,sim,12
+2017,SP,feminino,41,preta,sem escolaridade,nao,,,,,12
+2017,SP,feminino,72,parda,ensino medio,sim,lideranca,3566,44,sim,5
+2017,SP,feminino,43,preta,ensino medio,sim,lideranca,6704,39,sim,5
+2017,SP,feminino,74,branca,fundamental,nao,,,,,12
+2017,SP,feminino,74,branca,fundamental,sim,operacional,2417,46,sim,3
+2017,SP,feminino,47,branca,fundamental,nao,,,,,8
+2017,SP,feminino,44,parda,superior,sim,conta propria,1324,45,nao,9
+2017,SP,feminino,54,preta,sem escolaridade,sim,operacional,1339,36,sim,11
+2017,SP,feminino,40,parda,superior,sim,operacional,1991,40,sim,9
+2017,SP,feminino,35,preta,fundamental,sim,conta propria,2561,31,nao,3
+2017,SP,feminino,29,branca,sem escolaridade,sim,conta propria,3050,50,nao,11
+2017,SP,feminino,47,branca,sem escolaridade,sim,operacional,1845,45,sim,8
+2017,SP,feminino,60,branca,superior,sim,lideranca,5891,30,sim,4
+2017,SP,feminino,37,preta,fundamental,sim,operacional,743,32,sim,6
+2017,SP,feminino,46,preta,ensino medio,nao,,,,,9
+2017,SP,feminino,45,parda,sem escolaridade,sim,conta propria,1204,32,sim,7
+2017,SP,feminino,28,parda,fundamental,sim,conta propria,2995,42,nao,13
+2017,SP,feminino,75,branca,superior,sim,conta propria,1219,42,nao,12
+2017,SP,feminino,69,parda,sem escolaridade,sim,operacional,1356,48,sim,6
+2017,SP,feminino,38,parda,ensino medio,sim,operacional,1532,40,sim,9
+2017,SP,feminino,38,branca,superior,sim,lideranca,6662,31,sim,3
+2017,SP,feminino,58,preta,ensino medio,sim,operacional,781,44,sim,11
+2017,SP,feminino,65,parda,ensino medio,nao,,,,,8
+2017,SP,feminino,33,parda,ensino medio,sim,operacional,1962,47,sim,10
+2017,SP,feminino,33,branca,sem escolaridade,nao,,,,,7
+2017,SP,feminino,33,branca,superior,sim,conta propria,2162,31,nao,7
+2017,SP,feminino,64,parda,fundamental,sim,operacional,1093,40,sim,13
+2017,SP,feminino,41,preta,superior,sim,conta propria,1004,50,sim,5
+2017,SP,feminino,53,branca,ensino medio,sim,operacional,733,41,sim,4
+2017,SP,feminino,53,preta,fundamental,sim,operacional,1093,43,sim,4
+2017,SP,feminino,27,branca,superior,nao,,,,,8
+2017,SP,feminino,21,parda,superior,sim,conta propria,2111,47,nao,9
+2017,SP,feminino,45,preta,fundamental,sim,operacional,1295,49,sim,10
+2017,SP,feminino,61,parda,sem escolaridade,sim,operacional,1859,45,sim,12
+2017,SP,feminino,54,preta,superior,sim,conta propria,3265,43,sim,4
+2017,SP,feminino,67,preta,superior,sim,conta propria,1863,47,nao,4
+2017,SP,feminino,41,parda,superior,sim,operacional,2811,49,sim,8
+2017,SP,feminino,76,preta,ensino medio,sim,conta propria,2495,37,sim,8
+2017,SP,feminino,34,preta,superior,nao,,,,,20
+2017,SP,feminino,32,preta,ensino medio,sim,operacional,747,32,sim,10
+2017,SP,feminino,63,preta,ensino medio,sim,conta propria,3479,44,nao,13
+2017,SP,feminino,45,parda,fundamental,sim,conta propria,1869,32,nao,13
+2017,SP,feminino,25,preta,fundamental,nao,,,,,13
+2017,SP,feminino,52,branca,fundamental,sim,operacional,1532,40,sim,5
+2017,SP,feminino,73,branca,fundamental,nao,,,,,16
+2017,SP,feminino,29,branca,superior,sim,lideranca,6320,49,sim,13
+2017,SP,feminino,18,branca,sem escolaridade,sim,operacional,1165,33,sim,5
+2017,SP,feminino,62,parda,ensino medio,nao,,,,,9
+2017,SP,masculino,24,preta,ensino medio,sim,lideranca,5432,43,sim,4
+2017,SP,masculino,64,branca,ensino medio,sim,operacional,1307,38,sim,3
+2017,SP,masculino,46,preta,superior,sim,lideranca,7934,33,sim,4
+2017,SP,masculino,58,parda,fundamental,sim,operacional,1588,48,sim,6
+2017,SP,masculino,42,preta,superior,nao,,,,,13
+2017,SP,masculino,63,branca,ensino medio,sim,lideranca,9976,43,sim,0
+2017,SP,masculino,74,branca,sem escolaridade,sim,operacional,1441,37,sim,4
+2017,SP,masculino,73,branca,ensino medio,sim,conta propria,3281,48,sim,3
+2017,SP,masculino,25,parda,fundamental,sim,lideranca,4661,47,sim,3
+2017,SP,masculino,45,preta,ensino medio,nao,,,,,13
+2017,SP,masculino,41,parda,superior,sim,lideranca,7771,49,sim,2
+2017,SP,masculino,26,preta,superior,sim,conta propria,2826,39,sim,3
+2017,SP,masculino,50,parda,superior,sim,conta propria,1690,30,sim,5
+2017,SP,masculino,34,branca,superior,sim,conta propria,4567,43,sim,4
+2017,SP,masculino,32,branca,ensino medio,sim,operacional,1839,43,sim,1
+2017,SP,masculino,41,branca,ensino medio,nao,,,,,3
+2017,SP,masculino,79,branca,ensino medio,sim,conta propria,2395,41,nao,0
+2017,SP,masculino,73,branca,fundamental,sim,operacional,1927,34,sim,3
+2017,SP,masculino,61,parda,ensino medio,nao,,,,,12
+2017,SP,masculino,72,preta,superior,nao,,,,,7
+2017,SP,masculino,54,parda,ensino medio,sim,operacional,1902,34,sim,2
+2017,SP,masculino,75,branca,fundamental,sim,operacional,2663,34,sim,4
+2017,SP,masculino,32,preta,ensino medio,sim,conta propria,3061,45,sim,1
+2017,SP,masculino,52,branca,superior,sim,lideranca,7823,43,sim,5
+2017,SP,masculino,36,preta,superior,nao,,,,,7
+2017,SP,masculino,42,parda,fundamental,sim,operacional,1909,47,sim,5
+2017,SP,masculino,27,preta,fundamental,sim,conta propria,2717,33,nao,4
+2017,SP,masculino,50,branca,ensino medio,sim,operacional,2950,37,sim,3
+2017,SP,masculino,33,branca,superior,sim,lideranca,7431,50,sim,1
+2017,SP,masculino,70,preta,superior,sim,operacional,1245,48,sim,3
+2017,SP,masculino,46,parda,ensino medio,nao,,,,,8
+2017,SP,masculino,65,preta,ensino medio,nao,,,,,6
+2017,SP,masculino,31,preta,ensino medio,sim,conta propria,1982,44,sim,1
+2017,SP,masculino,75,preta,ensino medio,sim,conta propria,1712,48,nao,2
+2017,SP,masculino,71,preta,ensino medio,nao,,,,,6
+2017,SP,masculino,38,parda,ensino medio,nao,,,,,3
+2017,SP,masculino,33,branca,superior,sim,lideranca,7345,37,sim,2
+2017,SP,masculino,70,branca,ensino medio,sim,lideranca,6443,46,sim,6
+2017,SP,masculino,77,parda,fundamental,sim,conta propria,3241,30,nao,6
+2017,SP,masculino,48,branca,fundamental,sim,lideranca,5751,38,sim,0
+2017,SP,masculino,24,preta,ensino medio,sim,operacional,1439,32,sim,4
+2017,SP,masculino,73,preta,ensino medio,nao,,,,,11
+2017,SP,masculino,42,parda,ensino medio,sim,conta propria,2472,46,nao,3
+2017,SP,masculino,63,preta,superior,sim,conta propria,2821,45,nao,1
+2017,SP,masculino,67,preta,fundamental,sim,operacional,1023,48,sim,2
+2017,SP,masculino,24,preta,fundamental,sim,conta propria,1773,32,nao,1
+2017,SP,masculino,40,preta,sem escolaridade,sim,conta propria,2385,34,sim,5
+2017,SP,masculino,28,parda,ensino medio,sim,conta propria,2964,36,sim,5
+2017,SP,masculino,23,parda,ensino medio,sim,conta propria,1329,30,nao,2
+2016,SP,feminino,72,parda,superior,nao,,,,,20
+2016,SP,feminino,39,branca,ensino medio,sim,operacional,1762,41,sim,10
+2016,SP,feminino,47,branca,ensino medio,sim,operacional,2895,40,sim,13
+2016,SP,feminino,57,branca,ensino medio,nao,,,,,20
+2016,SP,feminino,23,branca,fundamental,sim,conta propria,2034,33,sim,6
+2016,SP,feminino,60,parda,fundamental,nao,,,,,12
+2016,SP,feminino,19,parda,sem escolaridade,nao,,,,,9
+2016,SP,feminino,48,preta,sem escolaridade,sim,conta propria,1084,39,nao,12
+2016,SP,feminino,75,preta,fundamental,sim,operacional,1634,39,sim,9
+2016,SP,feminino,55,parda,sem escolaridade,sim,operacional,1828,44,sim,11
+2016,SP,feminino,44,parda,ensino medio,nao,,,,,16
+2016,SP,feminino,48,parda,fundamental,sim,operacional,2412,45,sim,12
+2016,SP,feminino,21,preta,sem escolaridade,sim,conta propria,1686,37,nao,7
+2016,SP,feminino,30,preta,superior,sim,operacional,1143,49,sim,4
+2016,SP,feminino,38,parda,superior,nao,,,,,12
+2016,SP,feminino,49,preta,ensino medio,sim,operacional,903,39,sim,6
+2016,SP,feminino,59,preta,ensino medio,sim,operacional,1587,43,sim,6
+2016,SP,feminino,63,branca,ensino medio,sim,conta propria,3187,35,sim,8
+2016,SP,feminino,61,branca,ensino medio,sim,conta propria,2888,38,sim,3
+2016,SP,feminino,58,branca,ensino medio,sim,conta propria,1831,39,sim,11
+2016,SP,feminino,77,parda,ensino medio,sim,operacional,1097,36,sim,11
+2016,SP,feminino,31,parda,sem escolaridade,sim,operacional,912,38,sim,12
+2016,SP,feminino,79,branca,fundamental,sim,conta propria,1345,49,sim,10
+2016,SP,feminino,67,branca,fundamental,sim,conta propria,2456,50,sim,13
+2016,SP,feminino,40,branca,superior,sim,conta propria,2473,44,sim,11
+2016,SP,feminino,43,branca,fundamental,sim,operacional,1209,45,sim,7
+2016,SP,feminino,79,branca,superior,sim,operacional,2789,33,sim,4
+2016,SP,feminino,38,preta,ensino medio,sim,conta propria,2596,34,sim,4
+2016,SP,feminino,58,branca,superior,sim,lideranca,7797,38,sim,13
+2016,SP,feminino,47,parda,ensino medio,nao,,,,,10
+2016,SP,feminino,34,preta,fundamental,sim,operacional,1051,47,sim,12
+2016,SP,feminino,22,branca,fundamental,nao,,,,,8
+2016,SP,feminino,56,preta,ensino medio,sim,operacional,1429,40,sim,5
+2016,SP,feminino,51,preta,ensino medio,sim,operacional,1639,44,sim,12
+2016,SP,feminino,34,parda,ensino medio,sim,operacional,1448,39,sim,8
+2016,SP,feminino,30,preta,ensino medio,sim,operacional,1042,32,sim,6
+2016,SP,feminino,48,parda,fundamental,sim,conta propria,1680,47,nao,3
+2016,SP,feminino,19,preta,fundamental,nao,,,,,7
+2016,SP,feminino,32,parda,fundamental,sim,conta propria,1372,31,nao,10
+2016,SP,feminino,54,parda,fundamental,nao,,,,,10
+2016,SP,feminino,48,branca,fundamental,sim,operacional,1983,48,sim,6
+2016,SP,feminino,63,preta,ensino medio,sim,operacional,1867,45,sim,5
+2016,SP,feminino,28,parda,ensino medio,sim,operacional,2779,40,sim,9
+2016,SP,feminino,60,branca,ensino medio,sim,conta propria,1243,47,sim,3
+2016,SP,feminino,22,preta,fundamental,sim,conta propria,3271,44,sim,13
+2016,SP,feminino,52,preta,ensino medio,sim,operacional,936,50,sim,4
+2016,SP,feminino,75,preta,fundamental,sim,conta propria,2965,49,sim,4
+2016,SP,feminino,19,branca,superior,nao,,,,,7
+2016,SP,feminino,22,branca,ensino medio,sim,lideranca,6447,40,sim,6
+2016,SP,feminino,18,preta,sem escolaridade,sim,operacional,729,48,sim,6
+2016,SP,feminino,71,preta,fundamental,sim,operacional,1143,41,sim,10
+2016,SP,feminino,50,parda,fundamental,sim,conta propria,3240,30,nao,12
+2016,SP,feminino,31,preta,fundamental,sim,operacional,978,35,sim,6
+2016,SP,masculino,76,branca,superior,sim,lideranca,6321,35,sim,0
+2016,SP,masculino,50,parda,superior,sim,conta propria,2899,33,sim,4
+2016,SP,masculino,59,preta,ensino medio,nao,,,,,9
+2016,SP,masculino,78,branca,ensino medio,nao,,,,,13
+2016,SP,masculino,30,parda,superior,nao,,,,,9
+2016,SP,masculino,73,branca,fundamental,sim,operacional,1141,37,sim,0
+2016,SP,masculino,33,parda,ensino medio,sim,operacional,1478,44,sim,1
+2016,SP,masculino,74,preta,sem escolaridade,sim,operacional,1855,39,sim,2
+2016,SP,masculino,56,branca,ensino medio,sim,conta propria,2804,39,nao,3
+2016,SP,masculino,23,preta,ensino medio,sim,conta propria,3138,46,sim,1
+2016,SP,masculino,40,preta,ensino medio,sim,operacional,2387,49,sim,3
+2016,SP,masculino,77,parda,superior,sim,operacional,2966,35,sim,0
+2016,SP,masculino,33,preta,ensino medio,nao,,,,,6
+2016,SP,masculino,60,parda,superior,nao,,,,,9
+2016,SP,masculino,75,preta,ensino medio,sim,conta propria,1993,45,nao,1
+2016,SP,masculino,55,branca,fundamental,sim,lideranca,6752,44,sim,0
+2016,SP,masculino,43,preta,superior,sim,operacional,2059,47,sim,5
+2016,SP,masculino,53,parda,superior,nao,,,,,11
+2016,SP,masculino,64,preta,fundamental,sim,conta propria,1766,40,sim,3
+2016,SP,masculino,18,branca,fundamental,nao,,,,,9
+2016,SP,masculino,35,preta,superior,nao,,,,,6
+2016,SP,masculino,52,parda,superior,sim,conta propria,2345,37,sim,4
+2016,SP,masculino,71,branca,ensino medio,sim,operacional,1597,46,sim,4
+2016,SP,masculino,25,branca,superior,sim,lideranca,6123,35,sim,0
+2016,SP,masculino,38,branca,fundamental,nao,,,,,7
+2016,SP,masculino,80,branca,superior,nao,,,,,3
+2016,SP,masculino,21,preta,ensino medio,sim,conta propria,2718,40,sim,2
+2016,SP,masculino,50,parda,superior,sim,conta propria,2314,40,sim,2
+2016,SP,masculino,43,preta,ensino medio,nao,,,,,3
+2016,SP,masculino,34,preta,fundamental,sim,conta propria,3126,50,nao,4
+2016,SP,masculino,56,branca,fundamental,sim,conta propria,2984,36,sim,5
+2016,SP,masculino,18,branca,fundamental,sim,conta propria,3349,47,nao,4
+2016,SP,masculino,73,parda,ensino medio,sim,conta propria,1161,37,sim,4
+2016,SP,masculino,36,branca,fundamental,sim,lideranca,4413,31,sim,2
+2016,SP,masculino,27,branca,ensino medio,sim,conta propria,2474,37,nao,1
+2016,SP,masculino,78,parda,fundamental,sim,lideranca,8472,38,sim,4
+2016,SP,masculino,48,branca,superior,sim,lideranca,9986,47,sim,4
+2016,SP,masculino,56,parda,fundamental,nao,,,,,6
+2016,SP,masculino,42,parda,fundamental,sim,conta propria,2607,47,sim,1
+2016,SP,masculino,21,parda,ensino medio,nao,,,,,4
+2016,SP,masculino,72,branca,fundamental,sim,operacional,1823,40,sim,5
+2016,SP,masculino,24,preta,fundamental,sim,conta propria,2303,37,sim,2
+2016,SP,masculino,56,preta,fundamental,sim,operacional,1065,43,sim,6
+2016,SP,masculino,76,preta,superior,sim,conta propria,1181,49,sim,5
+2016,SP,masculino,31,preta,ensino medio,sim,conta propria,3301,42,sim,6
+2016,SP,masculino,61,branca,sem escolaridade,sim,operacional,2309,46,sim,6
+2016,SP,masculino,24,branca,superior,sim,conta propria,3424,37,sim,1
+2015,SP,feminino,53,preta,superior,sim,conta propria,3452,50,sim,11
+2015,SP,feminino,53,parda,ensino medio,sim,operacional,1991,37,sim,13
+2015,SP,feminino,39,parda,fundamental,sim,conta propria,2707,47,sim,9
+2015,SP,feminino,34,parda,fundamental,nao,,,,,11
+2015,SP,feminino,75,branca,superior,nao,,,,,15
+2015,SP,feminino,44,parda,superior,sim,operacional,1399,47,sim,9
+2015,SP,feminino,52,parda,ensino medio,nao,,,,,12
+2015,SP,feminino,57,preta,superior,nao,,,,,20
+2015,SP,feminino,36,branca,sem escolaridade,sim,operacional,1725,36,sim,12
+2015,SP,feminino,68,preta,sem escolaridade,sim,operacional,717,48,sim,13
+2015,SP,feminino,59,preta,fundamental,nao,,,,,9
+2015,SP,feminino,39,parda,fundamental,sim,operacional,2446,34,sim,10
+2015,SP,feminino,29,preta,fundamental,nao,,,,,17
+2015,SP,feminino,47,branca,ensino medio,nao,,,,,18
+2015,SP,feminino,57,preta,ensino medio,sim,conta propria,2345,40,sim,4
+2015,SP,feminino,41,branca,fundamental,sim,conta propria,1831,32,sim,10
+2015,SP,feminino,41,branca,sem escolaridade,sim,operacional,2115,38,sim,13
+2015,SP,feminino,46,parda,fundamental,sim,conta propria,3116,39,nao,5
+2015,SP,feminino,65,parda,superior,sim,conta propria,3201,43,nao,4
+2015,SP,feminino,18,parda,ensino medio,sim,operacional,974,35,sim,11
+2015,SP,feminino,79,preta,ensino medio,sim,operacional,1434,33,sim,12
+2015,SP,feminino,75,preta,fundamental,nao,,,,,8
+2015,SP,feminino,22,preta,ensino medio,sim,operacional,981,49,nao,9
+2015,SP,feminino,31,branca,superior,sim,operacional,1752,49,sim,3
+2015,SP,feminino,42,preta,sem escolaridade,sim,operacional,902,48,nao,11
+2015,SP,feminino,33,preta,ensino medio,nao,,,,,9
+2015,SP,feminino,47,parda,sem escolaridade,sim,conta propria,2349,38,nao,13
+2015,SP,feminino,33,branca,superior,sim,operacional,2012,40,sim,11
+2015,SP,feminino,57,branca,fundamental,nao,,,,,13
+2015,SP,feminino,20,preta,ensino medio,sim,conta propria,1742,50,sim,11
+2015,SP,feminino,65,branca,fundamental,sim,operacional,1592,38,sim,10
+2015,SP,feminino,68,branca,ensino medio,nao,,,,,15
+2015,SP,feminino,63,preta,fundamental,nao,,,,,10
+2015,SP,feminino,70,parda,ensino medio,sim,operacional,1607,36,sim,7
+2015,SP,feminino,79,branca,fundamental,sim,lideranca,6123,34,sim,6
+2015,SP,feminino,20,parda,ensino medio,sim,conta propria,3177,46,sim,13
+2015,SP,feminino,42,branca,ensino medio,nao,,,,,12
+2015,SP,feminino,72,preta,sem escolaridade,sim,conta propria,1243,40,sim,11
+2015,SP,feminino,72,branca,sem escolaridade,sim,operacional,1230,42,sim,12
+2015,SP,feminino,43,branca,sem escolaridade,nao,,,,,17
+2015,SP,feminino,56,parda,fundamental,sim,operacional,1022,30,sim,13
+2015,SP,feminino,70,parda,ensino medio,sim,operacional,1745,44,sim,6
+2015,SP,feminino,43,branca,ensino medio,nao,,,,,18
+2015,SP,feminino,56,preta,fundamental,sim,conta propria,1734,40,sim,8
+2015,SP,feminino,80,branca,sem escolaridade,sim,operacional,1093,31,sim,12
+2015,SP,feminino,61,branca,ensino medio,nao,,,,,10
+2015,SP,feminino,18,preta,ensino medio,sim,operacional,1421,31,sim,12
+2015,SP,feminino,77,preta,fundamental,sim,operacional,1664,36,sim,6
+2015,SP,feminino,56,preta,ensino medio,nao,,,,,16
+2015,SP,feminino,71,branca,ensino medio,sim,conta propria,1754,31,sim,5
+2015,SP,feminino,77,parda,fundamental,sim,operacional,1239,34,sim,12
+2015,SP,feminino,80,branca,superior,nao,,,,,10
+2015,SP,feminino,42,branca,ensino medio,sim,operacional,1944,32,sim,13
+2015,SP,masculino,38,preta,ensino medio,sim,conta propria,2935,40,sim,6
+2015,SP,masculino,47,preta,fundamental,nao,,,,,11
+2015,SP,masculino,20,parda,sem escolaridade,sim,operacional,2208,44,sim,6
+2015,SP,masculino,47,preta,superior,sim,lideranca,4554,39,sim,0
+2015,SP,masculino,20,parda,sem escolaridade,sim,conta propria,1313,33,sim,6
+2015,SP,masculino,22,branca,sem escolaridade,sim,operacional,2810,35,sim,2
+2015,SP,masculino,22,branca,ensino medio,sim,lideranca,8397,49,sim,5
+2015,SP,masculino,21,parda,fundamental,sim,conta propria,2391,41,sim,5
+2015,SP,masculino,49,preta,ensino medio,sim,conta propria,2696,44,sim,1
+2015,SP,masculino,25,branca,superior,sim,lideranca,6029,43,sim,2
+2015,SP,masculino,73,branca,ensino medio,sim,lideranca,7504,50,sim,2
+2015,SP,masculino,38,parda,fundamental,sim,lideranca,8567,44,sim,5
+2015,SP,masculino,57,branca,ensino medio,nao,,,,,9
+2015,SP,masculino,52,branca,fundamental,sim,conta propria,1451,48,nao,6
+2015,SP,masculino,40,parda,fundamental,sim,lideranca,6853,40,sim,0
+2015,SP,masculino,75,parda,ensino medio,nao,,,,,12
+2015,SP,masculino,31,branca,fundamental,sim,lideranca,4947,31,sim,0
+2015,SP,masculino,64,parda,ensino medio,sim,conta propria,1318,45,nao,3
+2015,SP,masculino,46,branca,fundamental,sim,lideranca,5355,31,sim,0
+2015,SP,masculino,35,branca,ensino medio,nao,,,,,8
+2015,SP,masculino,35,branca,ensino medio,sim,lideranca,7836,33,sim,3
+2015,SP,masculino,35,branca,ensino medio,sim,operacional,1262,49,sim,1
+2015,SP,masculino,48,parda,superior,sim,lideranca,5678,49,sim,2
+2015,SP,masculino,58,preta,fundamental,nao,,,,,6
+2015,SP,masculino,19,parda,superior,sim,conta propria,1897,50,sim,1
+2015,SP,masculino,27,branca,ensino medio,sim,operacional,1634,30,sim,5
+2015,SP,masculino,53,parda,ensino medio,sim,conta propria,2988,50,sim,0
+2015,SP,masculino,30,preta,superior,nao,,,,,6
+2015,SP,masculino,51,branca,ensino medio,sim,lideranca,9147,35,nao,3
+2015,SP,masculino,27,preta,fundamental,nao,,,,,12
+2015,SP,masculino,56,branca,superior,sim,conta propria,3279,43,sim,3
+2015,SP,masculino,80,preta,ensino medio,sim,conta propria,2913,42,nao,2
+2015,SP,masculino,35,preta,fundamental,sim,operacional,764,46,nao,3
+2015,SP,masculino,38,parda,superior,sim,conta propria,2720,30,nao,3
+2015,SP,masculino,39,preta,fundamental,sim,operacional,2312,31,nao,1
+2015,SP,masculino,51,preta,fundamental,sim,operacional,2406,34,nao,1
+2015,SP,masculino,41,branca,ensino medio,sim,conta propria,1210,39,sim,5
+2015,SP,masculino,59,branca,superior,nao,,,,,4
+2015,SP,masculino,32,branca,ensino medio,sim,conta propria,1668,36,sim,3
+2015,SP,masculino,44,branca,ensino medio,sim,conta propria,2899,40,sim,0
+2015,SP,masculino,25,branca,superior,nao,,,,,5
+2015,SP,masculino,30,parda,ensino medio,sim,operacional,2341,48,sim,2
+2015,SP,masculino,54,parda,superior,nao,,,,,7
+2015,SP,masculino,53,parda,superior,sim,operacional,2328,36,sim,0
+2015,SP,masculino,75,preta,ensino medio,sim,operacional,1751,40,nao,6
+2015,SP,masculino,52,parda,fundamental,sim,operacional,2410,40,sim,6
+2015,SP,masculino,68,branca,sem escolaridade,sim,conta propria,3389,34,sim,2
